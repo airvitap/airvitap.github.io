@@ -1,6 +1,6 @@
 ---
 name: D Surya Theja
-image: images/surya.jpg
+image: images/IMG_20241227_101420.jpg
 role: undergrad
 affliation : VIT AP University
 description: 
