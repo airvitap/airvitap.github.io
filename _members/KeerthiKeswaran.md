@@ -1,7 +1,7 @@
 ---
 name: K S KeerthiKeswaran
 image: images/KKheadshot.jpg
-role: Undergraduate Student
+role: undergrad
 affliation : VIT AP University
 description: 
 links:
