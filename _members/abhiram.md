@@ -1,7 +1,7 @@
 ---
 name: Abhiram Adabala
 image: images/xpfp.jpg
-role: Undergrad
+role: undergrad
 affliation : VIT AP University
 description: 
 links:
