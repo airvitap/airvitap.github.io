@@ -1,7 +1,7 @@
 ---
 name: Tanishq Srivastava
-image: images/tanishq_image.jpg
-role: Undergraduate
+image: images/tanishq_img.jpg
+role: undergrad
 affliation : VIT AP University
 description: 
 links:
