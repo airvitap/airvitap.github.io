@@ -10,3 +10,4 @@ links:
   github : github.com/Rikhil-Nell
 ---
 
+Machine Learning and LLM Developer with experience in Agentic systems, Data Handling/Validation, Database Management, Model Development, and Backend Architecture.
