@@ -1,6 +1,6 @@
 ---
 name: Rikhil Nellimarla
-image: images/photo.jpg
+image: images/Rikhil.jpg
 role: undergrad
 affliation : VIT AP University
 description: 
