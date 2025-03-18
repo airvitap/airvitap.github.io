@@ -6,7 +6,8 @@ affliation : VIT AP University
 description: 
 links:
   email: tanishq280205@gmail.com
-  github : github.com/tanishqsrivastavaa
+  linkedin: tanishq-srivastavaa
+  github : tanishqsrivastavaa
 ---
 
 
