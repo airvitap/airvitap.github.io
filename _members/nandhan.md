@@ -1,12 +1,12 @@
 ---
 name: Nandhan Golla
 image: images/nandhan.jpg
-role: Undergrad
+role: undergrad
 affliation : VIT AP University
 description: 
 links:
   email: nandhan.golla.work@gmail.com
-  Twitter:  nandhan_golla 
+  twitter:  nandhan_golla 
   github : github.com/Nandhan-Golla
 ---
 
