@@ -1,13 +1,12 @@
 ---
-Name: Sania
-Image: images/sania.jpg
-Role: Undergrad
-Affliation : VIT AP University
-Description: 
-Links:
-  Email: sania.23bce8120@vitapstudent.ac.in
-  Github : https://github.com/sania1510
-  LinkdIn : https://www.linkedin.com/in/sania-6a9561292
+name: Sania
+image: images/sania.jpg
+role: Undergrad
+affliation : VIT AP University
+description: 
+links:
+  email: sania.23bce8120@vitapstudent.ac.in
+  github : https://github.com/sania1510
 
 ---
 
