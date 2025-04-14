@@ -1,7 +1,7 @@
 ---
 name: Sania
 image: images/sania.jpg
-role: Undergrad
+role: undergrad
 affliation : VIT AP University
 description: 
 links:
