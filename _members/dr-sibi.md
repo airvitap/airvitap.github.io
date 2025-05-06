@@ -6,9 +6,9 @@ affiliation: VIT-AP University
 aliases:
 
 links:
-  aboutme: https://sibichakkaravarthy.github.io/
+  aboutme: https://sibichakkaravarthy.github.io
   email: chakkaravarthy.sibi@vitap.ac.in
-  linkedin: https://www.linkedin.com/in/sibi-chakkaravarthy-sethuraman-7aba651a/
+  linkedin: sibi-chakkaravarthy-sethuraman-7aba651a
   github : sibichakkaravarthy
   orcid: 0000-0001-8713-9213
 ---
