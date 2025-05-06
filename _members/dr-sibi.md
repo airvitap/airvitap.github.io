@@ -9,7 +9,7 @@ links:
   aboutme: https://sibichakkaravarthy.github.io/
   email: chakkaravarthy.sibi@vitap.ac.in
   linkedin: https://www.linkedin.com/in/sibi-chakkaravarthy-sethuraman-7aba651a/
-  github : https://github.com/sibichakkaravarthy
+  github : sibichakkaravarthy
   orcid: 0000-0001-8713-9213
 ---
 
