@@ -26,7 +26,7 @@ The selected interns and their respective projects are as follows:
 
 We thankful to Dr Sibi Chakkaravarthy, Dr Hari Seetha for their guidance and support throughout the selection process. Their expertise and insights have been invaluable in helping us identify the best candidates for our projects.
 
-The selected proposals are open sourced at [GitHub](https://github.com/airvitap/gsoc).
+The selected proposals are open sourced at [GSOC Accepted Proposals Archive](https://github.com/airvitap/gsoc).
 
 A Huge congratulations to all the selected interns! We are looking forward to a productive and successful summer of coding.
 We would also like to extend our gratitude to all the applicants for their hard work and dedication in submitting their proposals. We encourage you to keep an eye on our future opportunities and continue to engage with our community.
