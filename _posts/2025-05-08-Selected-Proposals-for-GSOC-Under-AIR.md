@@ -6,6 +6,7 @@ tags: gsoc, gsoc2025, gsoc2025proposals
 
 ---
 
+![image](https://summerofcode.withgoogle.com/assets/media/logo.svg)
 
 The AIR Research Lab is excited to announce the selected proposals for Google Summer of Code (GSoC) 2025. We are thrilled to welcome our new interns who will be working on various projects that align with our research goals and objectives.
 The selected interns and their respective projects are as follows:
