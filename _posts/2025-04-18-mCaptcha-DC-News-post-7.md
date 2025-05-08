@@ -12,4 +12,4 @@ Original paper: http://cacm.acm.org/research/mcaptcha-replacing-captchas-with-ra
 
 News Paper Article :
 
-![image](images/mCaptcha_DC.jpeg)
+![image](../images/mCaptcha_DC.jpeg)
