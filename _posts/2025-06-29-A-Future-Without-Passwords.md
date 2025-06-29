@@ -62,4 +62,4 @@ In an era where password leaks, reuse, and brute‑force attacks dominate headli
 > *“Our goal is to guide organizations toward a passwordless, quantum‑secure future—one tap at a time.”*
 > — Aditya Mitra, Student Researcher, VIT‑AP University
 
-Stay tuned to the VIT‑AP Quantum Security Lab for more updates on breaking research in post‑quantum cryptography and next‑generation authentication systems!
+Stay tuned to the VIT‑AP AIR Lab for more updates on breaking research in post‑quantum cryptography and next‑generation authentication systems!
