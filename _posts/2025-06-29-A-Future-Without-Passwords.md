@@ -8,11 +8,10 @@ tags: quantumn , password less , fido
 
 ---
 
-![news article](https://raw.githubusercontent.com/airvitap/airvitap.github.io/refs/heads/main/images/passwords_with-quantumn_tech_news.jpeg)
 
 
 **A Future Without Passwords? How Quantum Tech Is Redefining Authentication**
-*June 2025 – VIT‑AP Quantum Security Lab*
+*June 2025 – VIT‑AP AIR Lab*
 
 In an era where password leaks, reuse, and brute‑force attacks dominate headlines, our team at the VIT‑AP Quantum Security Lab is proud to unveil a **quantum‑resistant, passwordless authentication prototype** built on open standards. Led by student researcher **Aditya Mitra**, Professor **Sibi Chakkaravarthy Sethuraman**, and Researcher **Devi Priya V. S.**, our work tackles the twin challenges of usability and post‑quantum security head‑on.
 
@@ -55,6 +54,8 @@ In an era where password leaks, reuse, and brute‑force attacks dominate headli
 * **Extending to IoT**: Work is already underway to adapt our approach to resource‑constrained Internet of Things devices.
 
 ---
+
+![news article](https://raw.githubusercontent.com/airvitap/airvitap.github.io/refs/heads/main/images/passwords_with-quantumn_tech_news.jpeg)
 
 
 
