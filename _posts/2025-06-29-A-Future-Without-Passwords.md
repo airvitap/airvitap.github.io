@@ -1,5 +1,5 @@
 ---
-title: "A Future Without Passwords? How Quantum Tech Is Redefining Authentication - new article"
+title: "A Future Without Passwords? How Quantum Tech Is Redefining Authentication - news article"
 image: images/passwords_with-quantumn_tech_news.jpeg
 author: Aditya Mitra, Professor Sibi Chakkaravarthy Sethuraman, Devi Priya V. S
 Original paper: 
@@ -7,6 +7,9 @@ Source Code:
 tags: quantumn , password less , fido 
 
 ---
+
+![news article](https://raw.githubusercontent.com/airvitap/airvitap.github.io/refs/heads/main/images/passwords_with-quantumn_tech_news.jpeg)
+
 
 **A Future Without Passwords? How Quantum Tech Is Redefining Authentication**
 *June 2025 – VIT‑AP Quantum Security Lab*
@@ -53,8 +56,7 @@ In an era where password leaks, reuse, and brute‑force attacks dominate headli
 
 ---
 
-🔗 **Read the full paper** and explore our reference implementation on GitHub: [github.com/vit‑ap‑quantum‑lab/passwordless‑pq-auth](#)
-📬 **Get Involved**: Interested in securing the post‑quantum web? Contact us at [quantumlab@vitap.ac.in](mailto:quantumlab@vitap.ac.in)
+
 
 > *“Our goal is to guide organizations toward a passwordless, quantum‑secure future—one tap at a time.”*
 > — Aditya Mitra, Student Researcher, VIT‑AP University
