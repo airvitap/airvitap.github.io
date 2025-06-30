@@ -70,14 +70,8 @@
   date: '2022-01-01'
   link: https://doi.org/g64sgd
   orcid: 0000-0001-7778-0453
-  plugin: sources.py
-  file: sources.yaml
-  tyoe: journal
-  'description:': 'Loki: A Physical Security Key Compatible IoT Based Lock for Protecting
-    Physical Assets'
-  tags:
-  - open science
-  - collaboration
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1109/TCE.2021.3085888
   title: 'MyWear: A Novel Smart Garment for Automatic Continuous Vital Monitoring'
   authors:
@@ -120,6 +114,38 @@
   orcid: 0000-0001-7778-0453
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1145/3660628
+  title: 'mCaptcha: Replacing Captchas with Rate limiters to Improve Security and
+    Accessibility'
+  authors:
+  - Aravinth Manivannan
+  - Sibi Chakkaravarthy Sethuraman
+  - Devi Priya Vimala Sudhakaran
+  publisher: Communications of the ACM
+  date: '2024-09-26'
+  link: https://doi.org/g64sf9
+  type: journal
+  description: 'mCaptcha: Replacing Captchas with Rate Limiters to Improve Security
+    and Accessibility'
+  tags:
+  - Captcha
+  - Security
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/JSEN.2024.3487070
+  title: 'SimplyMime: A Dynamic Gesture Recognition and Authentication System for
+    Smart Remote Control'
+  authors:
+  - Sibi C. Sethuraman
+  - Gaurav Reddy Tadkapally
+  - Athresh Kiran
+  - Saraju P. Mohanty
+  - Anitha Subramanian
+  publisher: IEEE Sensors Journal
+  date: '2024-12-15'
+  link: https://doi.org/g88h3s
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1109/ICDCSW63686.2024.00023
   title: 'Saila: Human Interface Device (HID) Injection Protection with Smart Phone
     based Passwordless Security'
@@ -134,18 +160,6 @@
     Workshops (ICDCSW)
   date: '2024-07-23'
   link: https://doi.org/g64sf5
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1145/3660628
-  title: 'mCaptcha: Replacing Captchas with Rate limiters to Improve Security and
-    Accessibility'
-  authors:
-  - Aravinth Manivannan
-  - Sibi Chakkaravarthy Sethuraman
-  - Devi Priya Vimala Sudhakaran
-  publisher: Communications of the ACM
-  date: '2024-09-26'
-  link: https://doi.org/g64sf9
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.cose.2023.103600
